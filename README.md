@@ -10,7 +10,7 @@ The main objective of this project is to ensure consistency in phone number form
 - Handling and processing null values in the dataset
 - Ensuring data quality and consistency
 - Splitting data into seperate columns
-- Making address 
+- Formatting addresses 
 
 ## Files
 
