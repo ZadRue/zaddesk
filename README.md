@@ -16,15 +16,15 @@ The main objective of this project is to ensure consistency in phone number form
 
 The project includes the following files:
 
-- `data_cleaning.ipynb`: Jupyter Notebook containing the data cleaning code and process
-- `Data Cleaning pandas.ipynb`: Sample dataset used for the data cleaning project
+- `Data Cleaning pandas.ipynb`: Jupyter Notebook containing the data cleaning code and process
+- `Customer Call List.xlsx`: Sample dataset used for the data cleaning project
 
 ## Usage
 
 To use or replicate this data cleaning project, follow these steps:
 
 1. Clone the repository to your local machine or download the ZIP file.
-2. Open the `data_cleaning.ipynb` notebook in Jupyter Notebook or any compatible environment.
+2. Open the `Data Cleaning pandas.ipynb` notebook in Jupyter Notebook or any compatible environment.
 3. Install the necessary dependencies and libraries mentioned in the notebook.
 4. Run the notebook cells to execute the data cleaning process.
 
